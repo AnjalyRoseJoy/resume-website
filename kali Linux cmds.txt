@@ -1,0 +1,46 @@
+kali Linux cmds
+
+adduser - create user with home directory, password, details
+useradd - just create a user
+sudo - super user do
+history - cmds used
+sudo -s
+sudo passwd root
+clear
+exit - ctrl+d
+su - switch user
+sudo vipw - to edit etc/passwd file
+
+**explainshell.com**
+
+/etc/passwd
+/etc/shadow
+
+cat - to read
+nano - write
+
+to edit etc file: sudo vipw == ^ (ctrl)
+
+text editors:-
+/bin/nano
+/usr/bin/vim.tiny
+
+users:
+root
+kali
+anj
+
+directory :
+boot
+etc
+root - super user
+mnt - mount directory
+tmp - temporary directory
+bin - cmds stored
+
+**linux journey**
+
+permission:
+ls -l
+
+
